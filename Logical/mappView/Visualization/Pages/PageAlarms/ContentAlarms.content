@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Content id="ContentAlarms" height="600" width="800" xmlns="http://www.br-automation.com/iat2015/contentDefinition/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Widgets>
+    <Widget xsi:type="widgets.brease.AlarmList" id="AlarmList" top="20" left="20" width="760" height="460" zIndex="0" itemsPerPage="6">
+      <Widgets>
+        <Widget xsi:type="widgets.brease.AlarmListItem" id="AlarmListItemTimestamp" width="160" zIndex="0" columnType="timestamp" text="Time" />
+        <Widget xsi:type="widgets.brease.AlarmListItem" id="AlarmListItemName" width="220" zIndex="1" columnType="name" text="Alarm name" />
+        <Widget xsi:type="widgets.brease.AlarmListItem" id="AlarmListItemMessage" width="300" zIndex="2" text="Description" />
+        <Widget xsi:type="widgets.brease.AlarmListItem" id="AlarmListItemState" width="80" zIndex="3" columnType="state" text="State" />
+      </Widgets>
+    </Widget>
+  </Widgets>
+</Content>
