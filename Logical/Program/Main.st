@@ -25,6 +25,8 @@ PROGRAM _CYCLIC
 	MotorBeltAxisBasic.Parameters := ADR(MotorBeltParType);	
 	MotorBeltAxisBasic();
 	
+	//dzien dobry
+	
 	
 	
 	
