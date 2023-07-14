@@ -4,6 +4,9 @@
   <Objects>
     <Object Type="File">Visualizat.vis</Object>
     <Object Type="File">Config.mappviewcfg</Object>
+<<<<<<< HEAD
     <Object Type="File">ContentAlarms.binding</Object>
+=======
+>>>>>>> 088180105457e5cd1a474897ba3d95053889a03e
   </Objects>
 </Package>

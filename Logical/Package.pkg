@@ -7,6 +7,9 @@
     <Object Type="Package" Description="Global libraries">Libraries</Object>
     <Object Type="Package">mappView</Object>
     <Object Type="Program" Language="IEC">Program</Object>
+<<<<<<< HEAD
     <Object Type="Program" Language="IEC">ProgramAlarms</Object>
+=======
+>>>>>>> 088180105457e5cd1a474897ba3d95053889a03e
   </Objects>
 </Package>

@@ -11,9 +11,13 @@
     <Page refId="PageDiagnostics" />
   </Pages>
   <Navigations />
+<<<<<<< HEAD
   <BindingsSets>
     <BindingsSet refId="ContentAlarms_binding" />
   </BindingsSets>
+=======
+  <BindingsSets />
+>>>>>>> 088180105457e5cd1a474897ba3d95053889a03e
   <EventBindingsSets />
   <Dialogs />
   <Contents>
