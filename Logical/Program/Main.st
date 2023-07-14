@@ -6,11 +6,17 @@ PROGRAM _INIT
 END_PROGRAM
 
 PROGRAM _CYCLIC
-//	IF Wysun THEN  //TESTOWANIE
-//		BAIT := 2#0000_0000_0000_0101;
-//	ELSE
-//		BAIT := 2#0000_0000_0000_0000;
-//	END_IF;
+	
+	IF Wysun THEN  //TESTOWANIE
+		BAIT := 2#0000_0000_0000_0101;
+	ELSE
+		BAIT := 2#0000_0000_0000_0000;
+	END_IF;
+	
+	//moj fragment kodu Szymon
+	IF Zmienna_Szymon THEN
+		BAIT := 2#0000_0000_0000_0101;
+	END_IF;
 	
 	//Fragment kodu odpowiedzialny za inicjalizacjê taœmy
 	gAxis_1;
@@ -18,6 +24,8 @@ PROGRAM _CYCLIC
 	MotorBeltAxisBasic.Enable := TRUE;
 	MotorBeltAxisBasic.Parameters := ADR(MotorBeltParType);	
 	MotorBeltAxisBasic();
+	
+	
 	
 	
 	 
