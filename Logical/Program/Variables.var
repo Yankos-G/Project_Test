@@ -1,6 +1,7 @@
 VAR
-	MotorBeltAxisBasic : MpAxisBasic;
-	MotorBeltParType : MpAxisBasicParType;
+	Zmienna_Szymon : BOOL;
 	BAIT : UINT;
+	MotorBeltParType : MpAxisBasicParType;
+	MotorBeltAxisBasic : MpAxisBasic;
 	Wysun : BOOL;
 END_VAR
