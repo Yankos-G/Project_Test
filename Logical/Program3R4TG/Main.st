@@ -1,0 +1,15 @@
+
+PROGRAM _INIT
+	(* Insert code here *)
+	 
+END_PROGRAM
+
+PROGRAM _CYCLIC
+	//MAREK
+END_PROGRAM
+
+PROGRAM _EXIT
+	//JD
+	 
+END_PROGRAM
+

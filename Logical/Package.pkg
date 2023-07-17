@@ -7,6 +7,10 @@
     <Object Type="Package" Description="Global libraries">Libraries</Object>
     <Object Type="Package">mappView</Object>
     <Object Type="Program" Language="IEC">Program</Object>
-    <Object Type="Program" Language="IEC">ProgramAlarms</Object>
+<<<<<<< HEAD
+    <Object Type="Program" Language="IEC">Program3R4TG</Object>
+=======
+    <Object Type="Program" Language="IEC">ZRODLODRZEWO</Object>
+>>>>>>> UHHUUU
   </Objects>
 </Package>

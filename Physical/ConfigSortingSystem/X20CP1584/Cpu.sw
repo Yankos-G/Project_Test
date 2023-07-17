@@ -6,7 +6,11 @@
   <TaskClass Name="Cyclic#3" />
   <TaskClass Name="Cyclic#4">
     <Task Name="Program" Source="Program.prg" Memory="UserROM" Language="IEC" Debugging="true" />
-    <Task Name="ProgramAla" Source="ProgramAlarms.prg" Memory="UserROM" Language="IEC" Debugging="true" />
+<<<<<<< HEAD
+    <Task Name="Program3R4" Source="Program3R4TG.prg" Memory="UserROM" Language="IEC" Debugging="true" />
+=======
+    <Task Name="ZRODLODRZE" Source="ZRODLODRZEWO.prg" Memory="UserROM" Language="IEC" Debugging="true" />
+>>>>>>> UHHUUU
   </TaskClass>
   <Libraries>
     <LibraryObject Name="McBase" Source="Libraries.McBase.lby" Memory="UserROM" Language="binary" Debugging="true" />
@@ -18,7 +22,5 @@
     <LibraryObject Name="AsZip" Source="Libraries.AsZip.lby" Memory="UserROM" Language="binary" Debugging="true" />
     <LibraryObject Name="FileIO" Source="Libraries.FileIO.lby" Memory="UserROM" Language="binary" Debugging="true" />
     <LibraryObject Name="runtime" Source="Libraries.runtime.lby" Memory="UserROM" Language="binary" Debugging="true" />
-    <LibraryObject Name="MpAlarmX" Source="Libraries.MpAlarmX.lby" Memory="UserROM" Language="Binary" Debugging="true" />
-    <LibraryObject Name="astime" Source="Libraries.astime.lby" Memory="UserROM" Language="binary" Debugging="true" />
   </Libraries>
 </SwConfiguration>

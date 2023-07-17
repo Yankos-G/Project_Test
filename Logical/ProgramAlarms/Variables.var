@@ -1,5 +1,0 @@
-VAR
-	MpAlarmXCore_0 : MpAlarmXCore;
-	alarm1 : BOOL;
-	Zmienna : BOOL;
-END_VAR

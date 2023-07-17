@@ -1,9 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Content id="ContentAuto" height="600" width="800" xmlns="http://www.br-automation.com/iat2015/contentDefinition/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Widgets>
-    <Widget xsi:type="widgets.brease.Button" id="ButtonTestHub" top="80" left="120" width="600" height="200" zIndex="0" text="TestGIT" fontSize="50px" />
-    <Widget xsi:type="widgets.brease.Button" id="ButtonTestGitHubMaly" top="40" left="120" zIndex="1" text="testgit" />
-    <Widget xsi:type="widgets.brease.Image" id="Image1" top="300" left="260" width="220" height="180" zIndex="2" image="Media/SymbolLib/kapibara.jpg" />
-    <Widget xsi:type="widgets.brease.ToggleButton" id="ToggleButton1" top="340" left="540" width="160" height="70" zIndex="3" text="ToggleButton1" />
-  </Widgets>
+  <Widgets />
 </Content>
