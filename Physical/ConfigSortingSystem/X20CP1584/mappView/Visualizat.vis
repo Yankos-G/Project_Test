@@ -11,14 +11,14 @@
     <Page refId="PageDiagnostics" />
   </Pages>
   <Navigations />
-<<<<<<< HEAD
   <BindingsSets>
     <BindingsSet refId="ContentAlarms_binding" />
+    <BindingsSet refId="ContentAuto_binding" />
   </BindingsSets>
-=======
-  <BindingsSets />
->>>>>>> 088180105457e5cd1a474897ba3d95053889a03e
-  <EventBindingsSets />
+  <EventBindingsSets>
+    <EventBindingsSet refId="ContentAlarms_eventbinding" />
+    <EventBindingsSet refId="ContentAuto_eventbinding" />
+  </EventBindingsSets>
   <Dialogs />
   <Contents>
     <Content refId="ContentTop" />
@@ -34,6 +34,10 @@
   <SnippetsSets />
   <VariablesSets />
   <ExpressionsSets />
+  <StartTheme themeRefId="BuRTheme1" />
+  <Themes>
+    <Theme refId="BuRTheme1" />
+  </Themes>
   <Configurations>
     <Configuration key="activityCount" value="false" />
     <Gestures>

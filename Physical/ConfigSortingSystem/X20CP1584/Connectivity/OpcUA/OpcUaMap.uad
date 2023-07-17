@@ -12,9 +12,9 @@
       <Task Name="Program">
         <Variable Name="BAIT" />
         <Variable Name="Wysun" />
-        <Variable Name="Zmienna_Szymon" />
-        <Variable Name="MotorBeltAxisBasic" />
-        <Variable Name="MotorBeltParType" />
+      </Task>
+      <Task Name="ProgramAla">
+        <Variable Name="Zmienna" />
       </Task>
     </Module>
   </DefaultView>
